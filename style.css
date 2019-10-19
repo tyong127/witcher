@@ -3,6 +3,7 @@
 }
 
 h1 {
+    font-family: 'Liu Jian Mao Cao', cursive;
     text-align: center;
     background: black;
     font-size: 60px;
@@ -18,6 +19,7 @@ h2 {
 }
 
 p {
+    font-family: 'Long Cang', cursive;
     text-align: left;
     background: white;
     font-size: 25px;
